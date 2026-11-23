@@ -1,0 +1,4 @@
+[submodule "selinux-policy"]
+	path = selinux-policy
+	url = https://git.x01.dpdns.org/selinux-policy.git
+	branch = main
