@@ -1,0 +1,12 @@
+diff --git a/build.conf b/build.conf
+index bb282d7e0..6558363cc 100644
+--- a/build.conf
++++ b/build.conf
+@@ -89,3 +89,6 @@ QUIET = n
+ 
+ # Set this to treat warnings as errors.
+ WERROR = n
++
++# add new types like tailscaled and 
++NEW_TYPES = y
+\ No newline at end of file

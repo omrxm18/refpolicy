@@ -1,0 +1,13 @@
+diff --git a/build.conf b/build.conf
+index bb282d7e0..03a4986b7 100644
+--- a/build.conf
++++ b/build.conf
+@@ -19,7 +19,7 @@
+ 
+ # Policy Type
+ # standard, mls, mcs
+-TYPE = standard
++TYPE = mcs
+ 
+ # Policy Name
+ # If set, this will be used as the policy
